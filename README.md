@@ -1,4 +1,4 @@
-# Streamlit AI Prediction App
+# Streamlit web interface with prediction using trained Linear Regression model
 
 This is a simple AI-powered web app using Streamlit, demonstrating a linear regression model prediction.
 
